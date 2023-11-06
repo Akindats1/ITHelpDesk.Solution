@@ -1,0 +1,12 @@
+C:\Users\BELLO\source\repos\ITHelpDesk.Solution\Presentation\bin\Debug\net7.0\Presentation.deps.json
+C:\Users\BELLO\source\repos\ITHelpDesk.Solution\Presentation\bin\Debug\net7.0\Presentation.dll
+C:\Users\BELLO\source\repos\ITHelpDesk.Solution\Presentation\bin\Debug\net7.0\Presentation.pdb
+C:\Users\BELLO\source\repos\ITHelpDesk.Solution\Presentation\obj\Debug\net7.0\Presentation.csproj.AssemblyReference.cache
+C:\Users\BELLO\source\repos\ITHelpDesk.Solution\Presentation\obj\Debug\net7.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BELLO\source\repos\ITHelpDesk.Solution\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\BELLO\source\repos\ITHelpDesk.Solution\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfo.cs
+C:\Users\BELLO\source\repos\ITHelpDesk.Solution\Presentation\obj\Debug\net7.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\BELLO\source\repos\ITHelpDesk.Solution\Presentation\obj\Debug\net7.0\Presentation.dll
+C:\Users\BELLO\source\repos\ITHelpDesk.Solution\Presentation\obj\Debug\net7.0\refint\Presentation.dll
+C:\Users\BELLO\source\repos\ITHelpDesk.Solution\Presentation\obj\Debug\net7.0\Presentation.pdb
+C:\Users\BELLO\source\repos\ITHelpDesk.Solution\Presentation\obj\Debug\net7.0\ref\Presentation.dll

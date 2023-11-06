@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "xfkv00Az2/j0drCLYMBKoH4Xc2xm4QLdDzg0+UGpn6EjXEB2k9dLyGIan8N1u7BNP/jxCsWQxOjjq8J5Td3GYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BELLO\\source\\repos\\ITHelpDesk.Solution\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BELLO\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\BELLO\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.8.0\\fluentvalidation.dependencyinjectionextensions.11.8.0.nupkg.sha512",
+    "C:\\Users\\BELLO\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\BELLO\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\BELLO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

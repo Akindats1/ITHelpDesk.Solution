@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W9B8FM0Uvi3gNrQIahRlJPAkZfvndukOUxZtuwDaBBWJ2tUqzdSww4b2V3/lsWcN7bjT8+tik7AI8/JFEhPaAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BELLO\\source\\repos\\ITHelpDesk.Solution\\Presentation\\Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BELLO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
